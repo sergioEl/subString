@@ -1,5 +1,5 @@
 # subString
-Practice_substring_problem
+Practice_substring_problem in c++.
 
-Try: 
+Try & Test: 
 https://onlinegdb.com/r1RpXFOpr
